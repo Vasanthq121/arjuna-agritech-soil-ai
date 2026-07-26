@@ -1,0 +1,22 @@
+# Virtual environments
+.venv/
+.venv311/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+
+# Database
+*.db
+
+# Uploads
+uploads/
+
+# Reports
+reports/
+*.pdf
